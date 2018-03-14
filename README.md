@@ -4,7 +4,8 @@ DrCOM客户端，支持Windows, Linux (Openwrt)
 
 ## 编译
 
-使用CMake编译此工程
+使用make编译此工程
+
 
 ## 使用说明
 
